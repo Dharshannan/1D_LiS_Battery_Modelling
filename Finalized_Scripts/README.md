@@ -22,7 +22,7 @@ The remaining scripts are used for data analysis of the results obtained which a
   - Result for 0.5A constant current discharge.
 
 ```var_array_0.5A_no_prep.npz```
-  - Results for 0.5A constant current discharge without precipitation/dissolution dynamics.
+  - Result for 0.5A constant current discharge without precipitation/dissolution dynamics.
 
 ```var_array_0.5A_GITT.npz```
   - Result for 0.5A-0A GITT current profile.
